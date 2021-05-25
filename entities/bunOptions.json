@@ -1,0 +1,9 @@
+{
+  "id": "6875d870-4aa3-4029-ba1f-19175bdaa056",
+  "name": "bunOptions",
+  "isOverridable": true,
+  "isEnum": false,
+  "isRegexp": false,
+  "automatedExpansion": false,
+  "allowFuzzyExtraction": false
+}

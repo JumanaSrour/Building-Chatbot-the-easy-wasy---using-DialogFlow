@@ -1,0 +1,119 @@
+[
+  {
+    "id": "99aa9580-4e0b-4a5d-8113-a64f086fc1ba",
+    "data": [
+      {
+        "text": "Can you deliver?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "f1783b3f-4958-426e-a61a-c6408ef771d6",
+    "data": [
+      {
+        "text": "What if I want my burger to be delivered?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "51551201-8e60-40bc-be8a-7252bbc68d1b",
+    "data": [
+      {
+        "text": "Can I get my burger delivered?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "e510f804-9803-44e3-92ff-14f99aea0f62",
+    "data": [
+      {
+        "text": "can I get delivery?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "83f42342-9c19-4ac3-9379-28ded2194ae6",
+    "data": [
+      {
+        "text": "Do you have home delivery service?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "9a4f9a71-282b-47da-942c-a55af274679c",
+    "data": [
+      {
+        "text": "Is home delivery available?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "9fa19472-368b-4fa6-a740-45ce50f92faa",
+    "data": [
+      {
+        "text": "Is there an option for home delivery?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "5e65e1bb-5c83-4866-bd9c-4c1aa2755852",
+    "data": [
+      {
+        "text": "home delivery?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "84408f50-ad80-4b97-8217-16582b198b07",
+    "data": [
+      {
+        "text": "do you provide home delivery?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  }
+]

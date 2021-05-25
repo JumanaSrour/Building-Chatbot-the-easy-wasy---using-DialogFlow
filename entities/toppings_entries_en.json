@@ -1,0 +1,55 @@
+[
+  {
+    "value": "Tomatoe",
+    "synonyms": [
+      "Tomatoe",
+      "tomatoe slice"
+    ]
+  },
+  {
+    "value": "Onion",
+    "synonyms": [
+      "Onion",
+      "Onion slice"
+    ]
+  },
+  {
+    "value": "Lettuce",
+    "synonyms": [
+      "Lettuce",
+      "Lettuce,Leaf"
+    ]
+  },
+  {
+    "value": "Extra Patly",
+    "synonyms": [
+      "Extra Patly",
+      "Double patly",
+      "two patly"
+    ]
+  },
+  {
+    "value": "Extra cheese",
+    "synonyms": [
+      "Extra cheese",
+      "Double cheese",
+      "cheese extra"
+    ]
+  },
+  {
+    "value": "Cucumber",
+    "synonyms": [
+      "Cucumber",
+      "cucmber slice",
+      "slice of cucumber"
+    ]
+  },
+  {
+    "value": "All toppings",
+    "synonyms": [
+      "All toppings",
+      "all",
+      "everything"
+    ]
+  }
+]

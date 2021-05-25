@@ -1,0 +1,39 @@
+{
+  "id": "58e41eec-139f-4ddf-9553-2e98664f831d",
+  "parentId": "622a1ad0-d174-4270-a82e-52fdfa408421",
+  "rootParentId": "622a1ad0-d174-4270-a82e-52fdfa408421",
+  "name": "order - no",
+  "auto": true,
+  "contexts": [
+    "order-followup"
+  ],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "order.order-no",
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "en",
+          "speech": [
+            "How can I help you?"
+          ],
+          "condition": ""
+        }
+      ],
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

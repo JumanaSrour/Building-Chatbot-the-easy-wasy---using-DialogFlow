@@ -1,0 +1,94 @@
+[
+  {
+    "id": "9697fa53-b041-436e-8ff1-f86af10987c2",
+    "data": [
+      {
+        "text": "thank you so much",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "8a2b1bcb-f08f-4abd-88d1-6985a7825bb3",
+    "data": [
+      {
+        "text": "thank you loads",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "273d2cea-8d6d-4253-8e14-414c15971551",
+    "data": [
+      {
+        "text": "great, thanks a lot!",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "f1202aa7-7ed6-436a-ac21-6e45cdd037f7",
+    "data": [
+      {
+        "text": "thank you",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "ae1f097d-1efc-4d25-b322-e009e61b5959",
+    "data": [
+      {
+        "text": "thanks for the service",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "62fd9a03-3a9c-4a6c-b29f-073be0a69d67",
+    "data": [
+      {
+        "text": "Thank you for placing my order.",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "7df6a5a7-e63b-41f3-b938-6f99033ceec1",
+    "data": [
+      {
+        "text": "Ty",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  }
+]

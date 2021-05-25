@@ -1,0 +1,23 @@
+[
+  {
+    "value": "Whole wheat",
+    "synonyms": [
+      "Whole wheat",
+      "wheat"
+    ]
+  },
+  {
+    "value": "Normal",
+    "synonyms": [
+      "Normal",
+      "White",
+      "usual"
+    ]
+  },
+  {
+    "value": "Vegan",
+    "synonyms": [
+      "Vegan"
+    ]
+  }
+]

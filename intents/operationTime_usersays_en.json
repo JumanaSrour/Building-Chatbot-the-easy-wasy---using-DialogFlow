@@ -1,0 +1,132 @@
+[
+  {
+    "id": "8d8df273-32b5-4b62-b5ee-4c283dd2b21e",
+    "data": [
+      {
+        "text": "what are your delivery timings?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "3e1f6b42-171b-4397-8393-124d9ba7a105",
+    "data": [
+      {
+        "text": "what are your working hours?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "ac234780-d698-40cc-b8a9-f937a10cfa2b",
+    "data": [
+      {
+        "text": "when do you open?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "8613e1c2-b0ed-4742-a8df-127123b958f4",
+    "data": [
+      {
+        "text": "when do you close?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "85c69e0e-24a2-467c-b6cc-974654254748",
+    "data": [
+      {
+        "text": "what is your opening time?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "c26f43a7-6c1e-44e9-bac0-5168117e0fdb",
+    "data": [
+      {
+        "text": "what is your closing time?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "1ce78c68-12b9-47d2-a61a-059d22e84abd",
+    "data": [
+      {
+        "text": "closing time",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "ce025535-ae22-404d-9dd4-b46cf6102edb",
+    "data": [
+      {
+        "text": "opening time",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "413710fb-da42-42c9-8473-380b589e2bb4",
+    "data": [
+      {
+        "text": "what is your operating time?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "81277d09-b167-41fa-846c-7568f272b67d",
+    "data": [
+      {
+        "text": "Is he store open?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  }
+]

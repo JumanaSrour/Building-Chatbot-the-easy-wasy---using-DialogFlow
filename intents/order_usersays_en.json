@@ -1,0 +1,172 @@
+[
+  {
+    "id": "52694739-81d3-4928-88a0-ac2a42060339",
+    "data": [
+      {
+        "text": "double patly",
+        "meta": "@toppings",
+        "alias": "toppings",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "25912f36-ed57-4c13-a094-0aae3c27c8de",
+    "data": [
+      {
+        "text": "multi grain",
+        "meta": "@bunOptions",
+        "alias": "bunOptions",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "330369a4-a36a-45b6-be3f-9ce8941612e8",
+    "data": [
+      {
+        "text": "I would like to order a ",
+        "userDefined": false
+      },
+      {
+        "text": "burger",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "b34affdc-9717-4ee4-a338-aff47a00bc07",
+    "data": [
+      {
+        "text": "take the order",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "5be605cc-5dd7-485b-8ec9-bdfe5a6c8e72",
+    "data": [
+      {
+        "text": "order",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "e66b0448-da2c-4585-b40c-aeb8e685ddcf",
+    "data": [
+      {
+        "text": "can I order?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "eb9d0e1e-c39e-41da-b393-e26be4e7b2c4",
+    "data": [
+      {
+        "text": "I want a burger",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "7a20b592-7de4-4230-8d62-fded29cd64ac",
+    "data": [
+      {
+        "text": "I want cheese burger",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "00be60e0-8cb2-496a-840a-9347d6df751d",
+    "data": [
+      {
+        "text": "I want to place a code",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "0cc75f6e-ad99-4b1f-aace-504bb320d5af",
+    "data": [
+      {
+        "text": "please take my order",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "1cc8312e-5ecb-4ebd-80ca-58cecd2f3b17",
+    "data": [
+      {
+        "text": "can you rake my order?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "d7bb4261-5e52-4ea1-aab5-d2f946623150",
+    "data": [
+      {
+        "text": "I want to order a ",
+        "userDefined": false
+      },
+      {
+        "text": "burger",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  }
+]

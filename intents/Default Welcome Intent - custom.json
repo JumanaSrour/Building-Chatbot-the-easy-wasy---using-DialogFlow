@@ -1,0 +1,64 @@
+{
+  "id": "29d78c8b-2531-4e6f-8b79-5910d745c6f5",
+  "parentId": "93bf33cc-fc2f-48e1-bc1d-d02b412a9fa4",
+  "rootParentId": "93bf33cc-fc2f-48e1-bc1d-d02b412a9fa4",
+  "name": "Default Welcome Intent - custom",
+  "auto": true,
+  "contexts": [
+    "DefaultWelcomeIntent-followup"
+  ],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "DefaultWelcomeIntent.DefaultWelcomeIntent-custom",
+      "affectedContexts": [
+        {
+          "name": "person",
+          "lifespan": 10
+        }
+      ],
+      "parameters": [
+        {
+          "id": "6582e1a1-4e93-498a-b732-163dd09ba385",
+          "name": "person",
+          "required": true,
+          "dataType": "@sys.person",
+          "value": "$person",
+          "defaultValue": "",
+          "isList": false,
+          "prompts": [
+            {
+              "lang": "en",
+              "value": "Please enter your name"
+            }
+          ],
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": []
+        }
+      ],
+      "messages": [
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "en",
+          "speech": [
+            "Hello $person How can I help you?"
+          ],
+          "condition": ""
+        }
+      ],
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

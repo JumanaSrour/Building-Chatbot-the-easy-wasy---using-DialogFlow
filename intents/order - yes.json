@@ -1,0 +1,45 @@
+{
+  "id": "6b77de1a-4c82-4493-a74a-2fb2e5d89fd3",
+  "parentId": "622a1ad0-d174-4270-a82e-52fdfa408421",
+  "rootParentId": "622a1ad0-d174-4270-a82e-52fdfa408421",
+  "name": "order - yes",
+  "auto": true,
+  "contexts": [
+    "order-followup",
+    "person"
+  ],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "order.order-yes",
+      "affectedContexts": [
+        {
+          "name": "person",
+          "lifespan": 5
+        }
+      ],
+      "parameters": [],
+      "messages": [
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "en",
+          "speech": [
+            "Great! #person.person we have placed your order for burger with #order-followup in #order-followup.bunOptions bun"
+          ],
+          "condition": ""
+        }
+      ],
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}
